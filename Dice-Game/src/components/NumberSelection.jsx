@@ -18,6 +18,9 @@ function NumberSelection({error, selectedNumber, setSelectedNumber}) {
             >{value}</Box>
         ))}
 
+
+        <h4>Select Number</h4>
+
         
        
         
@@ -41,6 +44,10 @@ text-align: center;
 
 p{
     color: red;
+    
+}
+h4{
+    padding-left: 10px;
 }
  
 `;

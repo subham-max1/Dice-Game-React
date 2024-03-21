@@ -18,6 +18,7 @@ function Dice({currentDice,roleDice}) {
         <div className="paragraph">
         <p>Click On Dice to Roll</p>
         </div>
+        
 
     </Container>
     
